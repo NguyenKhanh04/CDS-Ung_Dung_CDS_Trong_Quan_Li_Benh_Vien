@@ -54,8 +54,8 @@
 ## 🚀 4.  Các bước cài đặt
 
 ### Bước 1: Chuẩn bị môi trường
-- Cài đặt **Java JDK 8+**.  
-- Cài đặt **Eclipse IDE** hoặc **NetBeans IDE**.  
+- Cài đặt **Dùng XAMPP**.  
+- Chọn phiên bản có **PHP 7.4** .  
 - Clone project từ GitHub về máy:  
   ```bash
   https://github.com/NguyenKhanh04/LTM-Group-chat-using-RMI.git
