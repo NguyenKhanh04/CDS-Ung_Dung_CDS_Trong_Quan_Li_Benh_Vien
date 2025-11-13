@@ -33,10 +33,10 @@
 
         
 
-## 🔧 2. Công nghệ sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-- **Java RMI (Remote Method Invocation)** – giao tiếp Client - Server.  
-- **Java Swing** – xây dựng giao diện client.  
-- **Eclipse IDE / NetBeans IDE** – phát triển và chạy chương trình.  
+## 🔧 2. Công nghệ sử dụng: [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+- **PHP** – Ngôn ngữ lập trình chính, xử lý logic phía server và kết nối với cơ sở dữ liệu.
+- **MySQL** – Hệ quản trị cơ sở dữ liệu, lưu trữ thông tin bệnh nhân, lịch khám, thuốc và các dữ liệu y tế khác.
+- **Apache / Xampp** – Phát triển và chạy chương trình.  
 
 ---
 ## 🖼️ 3.  Hình ảnh các chức năng chính
