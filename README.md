@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-  📌 CHAT NHÓM SỬ DỤNG PHƯƠNG THỨC RMI 
+  📌 ỨNG DỤNG CHUYỂN ĐỔI SỐ TRONG BỆNH VIỆN
 
 </h2>
 <div align="center">
