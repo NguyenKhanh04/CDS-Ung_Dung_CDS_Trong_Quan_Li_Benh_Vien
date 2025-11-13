@@ -41,11 +41,13 @@
 ---
 ## 🖼️ 3.  Hình ảnh các chức năng chính
 
-### 🔹 Giao diện client khi tham gia chat
-![Client UI](docs/projects/K16/image.png)
+### 🔹 Giao diện màn hình chính
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/8c4a8116-c6bf-4e9b-83eb-70236ba13fe0" />
 
-### 🔹 Chat nhóm và danh sách người dùng online
-![Chat UI](docs/projects/K16/image%20copy.png)
+
+### 🔹 Dao diện demo các chức năng
+<img width="1909" height="820" alt="image" src="https://github.com/user-attachments/assets/55e8410b-328e-41a0-890c-f2543dc66a80" />
+
 
 
 
