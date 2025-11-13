@@ -21,7 +21,7 @@
 </div>
 
 ## 📖 1. Giới thiệu hệ thống 
-Ứng dụng Chuyển đổi số trong bệnh viện được xây dựng trên nền tảng PHP – MySQL, nhằm hỗ trợ công tác quản lý, tra cứu và xử lý thông tin y tế một cách nhanh chóng, chính xác và hiệu quả. Hệ thống hoạt động theo mô hình Client – Server, cho phép nhân viên y tế và quản lý bệnh viện truy cập thông tin trực tuyến thông qua trình duyệt web, giảm thiểu giấy tờ và tối ưu hóa quy trình làm việc.
+Ứng dụng Chuyển đổi số trong bệnh viện được xây dựng trên nền tảng PHP – MySQL, nhằm hỗ trợ công tác quản lý, tra cứu và xử lý thông tin y tế một cách nhanh chóng, chính xác và hiệu quả. Hệ thống hoạt động theo mô hình EHR-HIS, cho phép nhân viên y tế và quản lý bệnh viện truy cập thông tin trực tuyến thông qua trình duyệt web, giảm thiểu giấy tờ và tối ưu hóa quy trình làm việc.
 
 🎯 Các chức năng chính:
 
