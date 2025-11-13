@@ -21,12 +21,15 @@
 </div>
 
 ## 📖 1. Giới thiệu hệ thống 
-Ứng dụng Chat nhóm bằng RMI được xây dựng nhằm hỗ trợ người dùng trao đổi thông tin theo thời gian thực qua mô hình Client – Server. Người dùng có thể tạo kết nối tới server và tham gia phòng chat để nhắn tin, gửi thông báo, và theo dõi các thành viên khác đang online.
+Ứng dụng Chuyển đổi số trong bệnh viện được xây dựng trên nền tảng PHP – MySQL, nhằm hỗ trợ công tác quản lý, tra cứu và xử lý thông tin y tế một cách nhanh chóng, chính xác và hiệu quả. Hệ thống hoạt động theo mô hình Client – Server, cho phép nhân viên y tế và quản lý bệnh viện truy cập thông tin trực tuyến thông qua trình duyệt web, giảm thiểu giấy tờ và tối ưu hóa quy trình làm việc.
 
-🎯 Các chức năng chính:<br>
-> ● Gửi và nhận tin nhắn theo thời gian thực.<br>
-> ● Hiển thị danh sách người dùng.<br>
-> ● Hỗ trợ chat nhóm (mọi tin nhắn đều được broadcast đến tất cả client).<br>
+🎯 Các chức năng chính:
+
+● Quản lý hồ sơ bệnh nhân: Lưu trữ, tra cứu và cập nhật thông tin bệnh nhân tập trung trên cơ sở dữ liệu.<br>
+● Quản lý lịch khám và điều trị: Đặt lịch khám, phân công bác sĩ, theo dõi quá trình điều trị và kết quả xét nghiệm.<br>
+● Quản lý thuốc và vật tư y tế: Theo dõi tồn kho, nhập xuất thuốc và vật tư y tế cho các khoa phòng.<br>
+● Thống kê và báo cáo: Cung cấp báo cáo trực tuyến về số lượng bệnh nhân, doanh thu, và hoạt động khám chữa bệnh.<br>
+● Hỗ trợ liên khoa: Chia sẻ thông tin bệnh án giữa các khoa để phối hợp điều trị hiệu quả.<br>
 
         
 
