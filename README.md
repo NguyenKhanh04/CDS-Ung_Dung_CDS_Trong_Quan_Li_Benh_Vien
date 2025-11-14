@@ -9,7 +9,7 @@
 </h2>
 <div align="center">
     <p align="center">
-        <img src="NguyenKhanh04/CDS-Ung_Dung_CDS_Trong_Quan_Li_Benh_Vien/docs/projects/K16/image copy.png" alt="AIoTLab Logo" width="170"/>
+        <img src="docs/aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
         <img src="docs/fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
         <img src="docs/dnu_logo.png" alt="DaiNam University Logo" width="200"/>
     </p>
