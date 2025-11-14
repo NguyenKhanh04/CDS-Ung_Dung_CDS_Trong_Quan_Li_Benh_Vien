@@ -4,7 +4,7 @@
     </a>
 </h2>
 <h2 align="center">
-  📌 ỨNG DỤNG CHUYỂN ĐỔI SỐ TRONG BỆNH VIỆN
+  📌 ỨNG DỤNG CHUYỂN ĐỔI SỐ TRONG QUẢN LÍ BỆNH VIỆN 
 
 </h2>
 <div align="center">
@@ -21,41 +21,36 @@
 </div>
 
 ## 📖 1. Giới thiệu hệ thống 
-Ứng dụng Chuyển đổi số trong bệnh viện được xây dựng trên nền tảng PHP – MySQL, nhằm hỗ trợ công tác quản lý, tra cứu và xử lý thông tin y tế một cách nhanh chóng, chính xác và hiệu quả. Hệ thống hoạt động theo mô hình EHR-HIS, cho phép nhân viên y tế và quản lý bệnh viện truy cập thông tin trực tuyến thông qua trình duyệt web, giảm thiểu giấy tờ và tối ưu hóa quy trình làm việc.
+Ứng dụng Chat nhóm bằng RMI được xây dựng nhằm hỗ trợ người dùng trao đổi thông tin theo thời gian thực qua mô hình Client – Server. Người dùng có thể tạo kết nối tới server và tham gia phòng chat để nhắn tin, gửi thông báo, và theo dõi các thành viên khác đang online.
 
-🎯 Các chức năng chính:
-
-● Quản lý hồ sơ bệnh nhân: Lưu trữ, tra cứu và cập nhật thông tin bệnh nhân tập trung trên cơ sở dữ liệu.<br>
-● Quản lý lịch khám và điều trị: Đặt lịch khám, phân công bác sĩ, theo dõi quá trình điều trị và kết quả xét nghiệm.<br>
-● Quản lý thuốc và vật tư y tế: Theo dõi tồn kho, nhập xuất thuốc và vật tư y tế cho các khoa phòng.<br>
-● Thống kê và báo cáo: Cung cấp báo cáo trực tuyến về số lượng bệnh nhân, doanh thu, và hoạt động khám chữa bệnh.<br>
-● Hỗ trợ liên khoa: Chia sẻ thông tin bệnh án giữa các khoa để phối hợp điều trị hiệu quả.<br>
+🎯 Các chức năng chính:<br>
+> ● Gửi và nhận tin nhắn theo thời gian thực.<br>
+> ● Hiển thị danh sách người dùng.<br>
+> ● Hỗ trợ chat nhóm (mọi tin nhắn đều được broadcast đến tất cả client).<br>
 
         
 
-## 🔧 2. Công nghệ sử dụng: [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
-- **PHP** – Ngôn ngữ lập trình chính, xử lý logic phía server và kết nối với cơ sở dữ liệu.
-- **MySQL** – Hệ quản trị cơ sở dữ liệu, lưu trữ thông tin bệnh nhân, lịch khám, thuốc và các dữ liệu y tế khác.
-- **Apache / Xampp** – Phát triển và chạy chương trình.  
+## 🔧 2. Công nghệ sử dụng: [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+- **Java RMI (Remote Method Invocation)** – giao tiếp Client - Server.  
+- **Java Swing** – xây dựng giao diện client.  
+- **Eclipse IDE / NetBeans IDE** – phát triển và chạy chương trình.  
 
 ---
 ## 🖼️ 3.  Hình ảnh các chức năng chính
 
-### 🔹 Giao diện màn hình chính
-<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/8c4a8116-c6bf-4e9b-83eb-70236ba13fe0" />
+### 🔹 Giao diện client khi tham gia chat
+![Client UI](docs/projects/K16/image.png)
 
-
-### 🔹 Dao diện demo các chức năng
-<img width="1909" height="820" alt="image" src="https://github.com/user-attachments/assets/55e8410b-328e-41a0-890c-f2543dc66a80" />
-
+### 🔹 Chat nhóm và danh sách người dùng online
+![Chat UI](docs/projects/K16/image%20copy.png)
 
 
 
 ## 🚀 4.  Các bước cài đặt
 
 ### Bước 1: Chuẩn bị môi trường
-- Cài đặt **Dùng XAMPP**.  
-- Chọn phiên bản có **PHP 7.4** .  
+- Cài đặt **Java JDK 8+**.  
+- Cài đặt **Eclipse IDE** hoặc **NetBeans IDE**.  
 - Clone project từ GitHub về máy:  
   ```bash
   https://github.com/NguyenKhanh04/LTM-Group-chat-using-RMI.git
