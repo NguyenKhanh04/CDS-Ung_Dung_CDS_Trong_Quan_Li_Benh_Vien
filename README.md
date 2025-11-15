@@ -37,7 +37,7 @@
 - **PHP** – Ngôn ngữ lập trình chính, xử lý logic phía server và kết nối với cơ sở dữ liệu.  
 - **MySQL** – Hệ quản trị cơ sở dữ liệu, lưu trữ thông tin bệnh nhân, lịch khám, thuốc và các dữ liệu y tế khác.  
 - **HTML/CSS/JavaScript** – Xây dựng giao diện web, tạo trải nghiệm người dùng thân thiện và tương tác động.  
-- **Apache / ** – Web server để chạy ứng dụng PHP.  
+- **Apache /Xampp** – Web server để chạy ứng dụng PHP.  
 ---
 ## 🖼️ 3.  Hình ảnh các chức năng chính
 
