@@ -37,15 +37,15 @@
 - **PHP** – Ngôn ngữ lập trình chính, xử lý logic phía server và kết nối với cơ sở dữ liệu.  
 - **MySQL** – Hệ quản trị cơ sở dữ liệu, lưu trữ thông tin bệnh nhân, lịch khám, thuốc và các dữ liệu y tế khác.  
 - **HTML/CSS/JavaScript** – Xây dựng giao diện web, tạo trải nghiệm người dùng thân thiện và tương tác động.  
-
+- **Apache / ** – Web server để chạy ứng dụng PHP.  
 ---
 ## 🖼️ 3.  Hình ảnh các chức năng chính
 
-### 🔹 Giao diện client khi tham gia chat
-![Client UI](docs/projects/K16/image.png)
+### 🔹 Giao diện màn hình chính 
+![alt text](image.png)
 
-### 🔹 Chat nhóm và danh sách người dùng online
-![Chat UI](docs/projects/K16/image%20copy.png)
+### 🔹 Tính năng chatbot nổi bật và chuyển đổi 
+![alt text](image-1.png)
 
 
 
