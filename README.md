@@ -54,7 +54,7 @@
 ### Bước 1: Chuẩn bị môi trường
 - Cài đặt môi trường chạy PHP: **XAMPP**.
  
-- Bật các dịch vụ: **Apache (Web Server)**  **MySQL (Database Server)**. 
+- Bật các dịch vụ: **Apache (Web Server)** và **MySQL (Database Server)**. 
 
 - Clone project từ GitHub về máy:  
   ```bash
