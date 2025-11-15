@@ -52,33 +52,46 @@
 ## 🚀 4.  Các bước cài đặt
 
 ### Bước 1: Chuẩn bị môi trường
-- Cài đặt **Java JDK 8+**.  
-- Cài đặt **Eclipse IDE** hoặc **NetBeans IDE**.  
+- Cài đặt môi trường chạy PHP: **XAMPP**.
+ 
+- Bật các dịch vụ: **Apache (Web Server)**  **MySQL (Database Server)**. 
+
 - Clone project từ GitHub về máy:  
   ```bash
-  https://github.com/NguyenKhanh04/LTM-Group-chat-using-RMI.git
-### Bước 2: Khởi động Server
-- Mở project trong Eclipse/NetBeans.
+  https://github.com/NguyenKhanh04/CDS-Ung_Dung_CDS_Trong_Quan_Li_Benh_Vien.git
 
-- Chạy file ServerDriver.java để khởi động server.
+### Bước 2: Cấu hình cơ sở dữ liệu
+- Truy cập phpMyAdmin:
+  👉 http://localhost/phpmyadmin
 
-- Nếu chạy thành công sẽ hiển thị thông báo server đã sẵn sàng lắng nghe client.
+- Tạo database, ví dụ: "quanlybenhvien"
 
-### Bước 3: Khởi động Client
-- Chạy file ClientDriver.java (có thể mở nhiều cửa sổ client).
+- Import file SQL có sẵn trong project (/database/quanlybenhvien.sql).
 
-- Nhập tên người dùng khi chương trình yêu cầu.
+- Kiểm tra lại kết nối trong file cấu hình PHP:
+  (config.php hoặc db_connect.php)
 
-- Kết nối tới server theo địa chỉ: "rmi://localhost/RMIChatServer"
-### Bước 4: Bắt đầu chat nhóm 🎉
-- Nhập tin nhắn vào ô chat và nhấn Enter hoặc Send để gửi.
+### Bước 3: Khởi động ứng dụng
+- Copy toàn bộ source code vào thư mục:
+📁 htdocs/benhvien (dùng XAMPP)
 
-- Tin nhắn sẽ được broadcast đến tất cả các client đang tham gia.
+- Mở trình duyệt và truy cập:
+👉 http://localhost/quanlybenhvien
 
-- Danh sách người dùng sẽ tự động cập nhật khi có người tham gia hoặc thoát.
+- Hệ thống sẽ điều hướng đến trang đăng nhập hoặc dashboard.
+### Bước 4: Sử dụng hệ thống 🎉
+- **Quản lý hồ sơ bệnh nhân**: thêm – sửa – xem – tìm kiếm.
+
+- **Quản lý lịch khám**: đặt lịch, xem lịch theo bác sĩ/khoa.
+
+- **Quản lý thuốc & vật tư**: theo dõi tồn kho, nhập – xuất – báo cáo.
+
+- **Quản lý nhân sự bệnh viện**: bác sĩ, y tá, hành chính.
+
+- **Thống kê & báo cáo**: số lượng bệnh nhân, doanh thu, lượt khám,...
 
 
 ## 📞 5. Liên hệ <br>
- 📌 © 2025 **Nguyễn Ngọc Khánh, Lớp: CNTT 16-03**,<br> Faculty of Information Technology – DaiNam University. All rights reserved.<br>
+ 📌 © 2025 **Nhóm 20: Nguyễn Ngọc Khánh & Bùi Văn Tiến Lớp: CNTT 16-03**,<br> Faculty of Information Technology – DaiNam University. All rights reserved.<br>
 
 
