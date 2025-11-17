@@ -43,7 +43,7 @@
 ![alt text](image.png)
 
 ### 🔹 Tính năng chatbot nổi bật và chuyển đổi 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 
